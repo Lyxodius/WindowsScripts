@@ -1,4 +1,4 @@
-#WindowsScripts
+# WindowsScripts
 
 This repository is not available in English. The scripts will mostly only work on German setups of Windows.
 If you wish to create a fork to make it available in English, go ahead.
